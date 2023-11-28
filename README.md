@@ -59,13 +59,13 @@ print(b,'\n')
 ```
 
 ## Berikut adalah hasil perogramnya
-![Alt text](Gambar/image-6.png)
-![Alt text](Gambar/image-7.png)
+![Alt text](/image-6.png)
+![Alt text](image-7.png)
 
 # Tugas Praktikum
 _program sederhana yang akan menampilkan daftar nilai mahasiswa_
 ## Flowchart
-![Alt text](Gambar/image-5.png)
+![Alt text](image-5.png)
 1. membuat lopping agar program terus berjalan:
 ```python
 sh while True :
@@ -105,14 +105,14 @@ else:
         print("Pilih menu yang tersedia: ")
 ```
 ### Output untuk (T) :
-![Alt text](Gambar/image-4.png)
+![Alt text](image-4.png)
 ### Output untuk (U) :
-![Alt text](Gambar/image-3.png)
+![Alt text](image-3.png)
 ### Output untuk (L) :
-![Alt text](Gambar/image-2.png)
+![Alt text](image-2.png)
 ### Output untuk (C) :
-![Alt text](Gambar/image.png)
+![Alt text](image.png)
 ### Output untuk (H) :
-![Alt text](Gambar/image-1.png)
+![Alt text](image-1.png)
 
 ## Terima Kasih

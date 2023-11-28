@@ -105,14 +105,19 @@ else:
         print("Pilih menu yang tersedia: ")
 ```
 ### Output untuk (T) :
-![Alt text](image-4.png)
+<img width="409" alt="Screenshot 2023-11-28 144550" src="https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/c533a3e8-f557-461e-85c5-4824edbce888">
+
 ### Output untuk (U) :
-![Alt text](image-3.png)
+<img width="400" alt="Screenshot 2023-11-28 144603" src="https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/e9c7169f-acbe-45f2-ad65-3cdfcb2e58b9">
+
 ### Output untuk (L) :
-![Alt text](image-2.png)
+<img width="450" alt="Screenshot 2023-11-28 144615" src="https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/377db7f0-2025-4562-93de-bc0f06f47b31">
+
 ### Output untuk (C) :
-![Alt text](image.png)
+![image](https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/19d22645-d6b7-4b9f-8d99-b1c0a25e5c28)
+
 ### Output untuk (H) :
-![Alt text](image-1.png)
+<img width="440" alt="Screenshot 2023-11-28 144641" src="https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/98fa88a9-f3a2-43ab-9200-e1ec8b6d0dd4">
+
 
 ## Terima Kasih

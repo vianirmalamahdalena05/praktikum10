@@ -59,13 +59,15 @@ print(b,'\n')
 ```
 
 ## Berikut adalah hasil perogramnya
-![Alt text](/image-6.png)
-![Alt text](image-7.png)
+<img width="332" alt="Screenshot 2023-11-28 145141" src="https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/7bec1008-ad62-4add-ac55-b689d8e06c67">
+<img width="439" alt="Screenshot 2023-11-28 145111" src="https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/0214d5e5-b041-4a34-a99e-a6086a2f8a2c">
+
 
 # Tugas Praktikum
 _program sederhana yang akan menampilkan daftar nilai mahasiswa_
 ## Flowchart
-![Alt text](image-5.png)
+<img width="313" alt="Screenshot 2023-11-28 151511" src="https://github.com/vianirmalamahdalena05/praktikum10/assets/147572078/baebbd85-7004-458d-a8a9-99eeac719b17">
+
 1. membuat lopping agar program terus berjalan:
 ```python
 sh while True :
